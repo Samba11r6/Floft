@@ -4,7 +4,7 @@
 > Additional runtime is required to build this repository!
 
 <div align="center">
-  <a href="https://github.com/Floorp-Projects/Floorp">
+  <a href="https://github.com/Samba11r6/Floft">
     <img src="https://floft.app/logo.png" alt="Logo" width="100" height="100">
   </a>
   
